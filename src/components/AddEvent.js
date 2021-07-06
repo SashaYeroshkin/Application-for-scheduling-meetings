@@ -4,8 +4,7 @@ class AddEvent extends React.Component {
   state = {
     title: "",
     date: "",
-    location: "",
-    weather: ""
+    location: ""
   };
 
   add = (e) => {
@@ -15,11 +14,7 @@ class AddEvent extends React.Component {
       return;
     };
 
-    // this.state.weather = this.props.retrieveWeather(this.state.location);
-
-    this.props.addEventHandler(this.state).then(() => this.props.history.push("/"))
-    // this.setState({ title: "", date: "", location: "" });
-    // this.props.history.push("/")
+    this.props.addEventHandler(this.state).then(() => this.props.history.push("/"));
   };
   render() {
     return (
