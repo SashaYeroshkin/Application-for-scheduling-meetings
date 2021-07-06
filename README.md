@@ -11,8 +11,21 @@
 ### Edit a meeting (Edytowanie nowego spotkania)
 ![Edit](https://github.com/SashaYeroshkin/Application-for-scheduling-meetings/blob/master/edit_a_meeting.png)
 
-### Overview (Pogłąd spotkania)
+### Overview (Pogłąd wybranego spotkania)
 ![Show](https://github.com/SashaYeroshkin/Application-for-scheduling-meetings/blob/master/show_a_meeting.png)
+
+# Library (Biblioteki)
+
+### sementic-ui
+Link: https://cdnjs.com/libraries/semantic-ui 
+
+### Axios
+$ npm install axios
+
+# API 
+
+### Weather API
+Link: https://openweathermap.org/api 
 
 # A few things about React JS (Kilka rzeczy o React JS)
 
