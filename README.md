@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Application for scheduling meetings (Aplikacja do planowania spotkań) - React JS
+
+## Application screens and their description (Ekrany aplikacji oraz ich opis)
+
+...
+
+# A few things about React JS (Kilka rzeczy o React JS)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
