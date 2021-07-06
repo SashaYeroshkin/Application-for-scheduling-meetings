@@ -1,1 +1,1 @@
-# Application-for-scheduling-meetings
+# Aplikacja do planowania spotkań
