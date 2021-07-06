@@ -2,7 +2,17 @@
 
 ## Application screens and their description (Ekrany aplikacji oraz ich opis)
 
-...
+### Meeting list (Lista spotkań)
+![Event list](https://github.com/SashaYeroshkin/Application-for-scheduling-meetings/blob/master/event_list.png)
+
+### Add new meeting (Dodanie nowego spotkania)
+![Add](https://github.com/SashaYeroshkin/Application-for-scheduling-meetings/blob/master/add_a_meeting.png)
+
+### Edit a meeting (Edytowanie nowego spotkania)
+![Edit](https://github.com/SashaYeroshkin/Application-for-scheduling-meetings/blob/master/edit_a_meeting.png)
+
+### Overview (Pogłąd spotkania)
+![Show](https://github.com/SashaYeroshkin/Application-for-scheduling-meetings/blob/master/show_a_meeting.png)
 
 # A few things about React JS (Kilka rzeczy o React JS)
 
